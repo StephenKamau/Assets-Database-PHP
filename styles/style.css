@@ -1,0 +1,65 @@
+.py-2 {
+  color: #bebebe;
+}
+
+.py-2:hover {
+  color: #e2e2e2;
+  text-decoration: none;
+}
+
+.title {
+  color: rgb(42, 141, 233);
+  border-bottom: 1px solid rgb(42, 141, 233);
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+body {
+  background-color: #f1f5f8;
+}
+
+.bg-l {
+  background-color: #ffffff;
+}
+
+.d {
+  margin: 16px;
+  border: 1px solid #e2e2e2;
+  padding: 16px;
+}
+
+.btn {
+  color: #ffffff;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.form-control:focus {
+  border: 1px solid rgb(42, 141, 233);
+  box-shadow: none;
+}
+
+.icon {
+  text-align: center;
+  font-size: 2em;
+  color: rgb(42, 141, 233);
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.c {
+  text-align: center;
+}
+
+.l {
+  color: #26d8ab;
+}
+
+.br {
+  color: rgb(230, 128, 13);
+}
+  
